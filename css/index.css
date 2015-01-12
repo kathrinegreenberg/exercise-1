@@ -20,11 +20,22 @@ html {
 
 .bod {
 	text-align: center;
-	margin-top: 12%;
+	margin-top: 11%;
 }
 
 h1 {
 	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-top: 5rem;
+	color: #8F46C1;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-top: 1rem;
+	color: #B686D6;
+	font-size: 22px;
 }
 
 a {
